@@ -1,1 +1,1 @@
-# MealsRater_aPI_Django
+# MealsRater_API_Django
